@@ -12,7 +12,7 @@ Este curso combina teoría y práctica para enseñar cómo implementar algoritmo
 
 ## Contenido
 
-#### [Capítulo 1: Recursión](/recursion/README.md)
+#### [Capítulo 1: Recursión](/recursion/)
 
 Introducción a la recursión, cómo funciona en memoria y resolución de problemas clásicos como las Torres de Hanoi.
 
