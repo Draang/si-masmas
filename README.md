@@ -12,33 +12,33 @@ Este curso combina teoría y práctica para enseñar cómo implementar algoritmo
 
 ## Contenido
 
-#### [Capítulo 1: Recursión](/01-recursion/) 🔙
+### [Capítulo 1: Recursión](/01-recursion/) 🔙
 
 Introducción a la recursión, cómo funciona en memoria y resolución de problemas clásicos como las Torres de Hanoi.
 
 ### [Capítulo 2: Busqueda](/02-busqueda/)
 
-#### Capítulo 3: Backtracking
+### Capítulo 3: Backtracking
 
 Técnicas para resolver problemas mediante retroceso, incluyendo ejemplos como N-reinas, coloreo de grafos y recorrido del caballo.
 
-#### Capítulo 4: Programación Dinámica
+### Capítulo 4: Programación Dinámica
 
 Conceptos clave como memoización y tabulación, aplicados a problemas como Fibonacci y la mochila (knapsack).
 
-#### Capítulo 5: Estructuras de Datos
+### Capítulo 5: Estructuras de Datos
 
 Implementación de estructuras esenciales como arreglos, listas enlazadas, pilas, colas, árboles binarios, heaps y tablas hash.
 
-#### Capítulo 6: Grafos
+### Capítulo 6: Grafos
 
 Exploración de grafos dirigidos y no dirigidos, algoritmos de búsqueda (BFS y DFS) y rutas más cortas (Dijkstra y Bellman-Ford).
 
-#### Capítulo 7: Algoritmos de Búsqueda de Subcadenas
+### Capítulo 7: Algoritmos de Búsqueda de Subcadenas
 
 Métodos para encontrar patrones en cadenas, como Knuth-Morris-Pratt (KMP), Rabin-Karp y Z.
 
-#### Capítulo 8: Algoritmos de Ordenamiento
+### Capítulo 8: Algoritmos de Ordenamiento
 
 Implementación de algoritmos de ordenamiento como burbuja, quicksort, mergesort y radix, con aplicaciones en datos y cadenas.
 
